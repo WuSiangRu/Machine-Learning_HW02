@@ -9,3 +9,10 @@
 `Perseptron實作決策邊界圖部分`
 ![image](https://github.com/WuSiangRu/Machine-Learning_HW02/blob/master/HW_2-1/result/02.jpg)
 
+### 第二，三部份為實作Adaline和mini-batch-learning(batch部分不確定是否正確)
+ˋAdaline部分ˋ
+![image](https://github.com/WuSiangRu/Machine-Learning_HW02/blob/master/HW_2-2&2-3/result/03.jpg)
+
+ˋmini-batch-learning部分(不確定是否正確)ˋ
+![image](https://github.com/WuSiangRu/Machine-Learning_HW02/blob/master/HW_2-2&2-3/result/04.jpg)
+
